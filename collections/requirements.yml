@@ -1,6 +1,6 @@
 ---
 collections:
   - cisco.aci
-  - community.general
-  - f5networks.f5_modules
-  - cisco.nxos
+#  - community.general
+#  - f5networks.f5_modules
+#  - cisco.nxos
